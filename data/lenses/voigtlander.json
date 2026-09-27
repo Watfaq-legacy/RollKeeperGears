@@ -16,6 +16,14 @@
     "mount": "Leica M (VM)"
   },
   {
+    "id": "lens-voigtlander-35-nokton-15",
+    "brand": "Voigtländer",
+    "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type I/II VM",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.5",
+    "mount": "Leica M (VM)"
+  },
+  {
     "id": "lens-voigtlander-35-ultron",
     "brand": "Voigtländer",
     "model": "Ultron Vintage Line 35mm f/2 Aspherical Type II VM",

@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "updatedAt": "2026-09-27T22:36:56.909Z",
+  "version": 3,
+  "updatedAt": "2026-09-27T22:38:44.827Z",
   "cameras": [
     {
       "id": "cam-canon-ae1",
@@ -915,6 +915,14 @@
       "model": "Nokton 35mm f/1.2 III Aspherical VM",
       "focalLength": "35mm",
       "maxAperture": "f/1.2",
+      "mount": "Leica M (VM)"
+    },
+    {
+      "id": "lens-voigtlander-35-nokton-15",
+      "brand": "Voigtländer",
+      "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type I/II VM",
+      "focalLength": "35mm",
+      "maxAperture": "f/1.5",
       "mount": "Leica M (VM)"
     },
     {
