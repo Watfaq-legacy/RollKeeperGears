@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dev-kodak-d76",
+    "brand": "Kodak",
+    "name": "D-76 (1:1 / Stock)",
+    "process": "B&W"
+  },
+  {
+    "id": "dev-kodak-xtol",
+    "brand": "Kodak",
+    "name": "XTOL (Stock / 1:1)",
+    "process": "B&W"
+  },
+  {
+    "id": "dev-kodak-hc110",
+    "brand": "Kodak",
+    "name": "HC-110 (Dilution B / E)",
+    "process": "B&W"
+  },
+  {
+    "id": "dev-kodak-tmax",
+    "brand": "Kodak",
+    "name": "T-Max Developer (1:4)",
+    "process": "B&W"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "lens-sony-2470-gm2",
+    "brand": "Sony",
+    "model": "FE 24-70mm F2.8 GM II",
+    "focalLength": "24-70mm",
+    "maxAperture": "f/2.8",
+    "mount": "Sony E"
+  },
+  {
+    "id": "lens-sony-50-12-gm",
+    "brand": "Sony",
+    "model": "FE 50mm F1.2 GM",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.2",
+    "mount": "Sony E"
+  },
+  {
+    "id": "lens-sony-35-14-gm",
+    "brand": "Sony",
+    "model": "FE 35mm F1.4 GM",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.4",
+    "mount": "Sony E"
+  }
+]

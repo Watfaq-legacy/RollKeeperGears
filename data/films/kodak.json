@@ -1,0 +1,190 @@
+[
+  {
+    "id": "film-kodak-portra-400",
+    "brand": "Kodak",
+    "name": "Portra 400",
+    "nominalIso": 400,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "film-kodak-portra-160",
+    "brand": "Kodak",
+    "name": "Portra 160",
+    "nominalIso": 160,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "film-kodak-portra-800",
+    "brand": "Kodak",
+    "name": "Portra 800",
+    "nominalIso": 800,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-kodak-tri-x-400",
+    "brand": "Kodak",
+    "name": "Tri-X 400 (400TX)",
+    "nominalIso": 400,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "film-kodak-tmax-400",
+    "brand": "Kodak",
+    "name": "T-Max 400 (TMY-2)",
+    "nominalIso": 400,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-kodak-tmax-100",
+    "brand": "Kodak",
+    "name": "T-Max 100 (TMX)",
+    "nominalIso": 100,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-kodak-tmax-3200",
+    "brand": "Kodak",
+    "name": "T-Max P3200 (TMZ)",
+    "nominalIso": 3200,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135"
+    ]
+  },
+  {
+    "id": "film-kodak-ektar-100",
+    "brand": "Kodak",
+    "name": "Ektar 100",
+    "nominalIso": 100,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "film-kodak-gold-200",
+    "brand": "Kodak",
+    "name": "Gold 200",
+    "nominalIso": 200,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-kodak-colorplus-200",
+    "brand": "Kodak",
+    "name": "ColorPlus 200",
+    "nominalIso": 200,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135"
+    ]
+  },
+  {
+    "id": "film-kodak-ultramax-400",
+    "brand": "Kodak",
+    "name": "Ultramax 400",
+    "nominalIso": 400,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135"
+    ]
+  },
+  {
+    "id": "film-kodak-proimage-100",
+    "brand": "Kodak",
+    "name": "Pro Image 100",
+    "nominalIso": 100,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135"
+    ]
+  },
+  {
+    "id": "film-kodak-double-x",
+    "brand": "Kodak",
+    "name": "Eastman Double-X 5222",
+    "nominalIso": 250,
+    "process": "B&W",
+    "type": "Cinema Black & White",
+    "formats": [
+      "135"
+    ]
+  },
+  {
+    "id": "film-kodak-vision3-500t",
+    "brand": "Kodak",
+    "name": "Vision3 500T 5219",
+    "nominalIso": 500,
+    "process": "ECN-2",
+    "type": "Cinema Motion Picture",
+    "formats": [
+      "135"
+    ]
+  },
+  {
+    "id": "film-kodak-vision3-250d",
+    "brand": "Kodak",
+    "name": "Vision3 250D 5207",
+    "nominalIso": 250,
+    "process": "ECN-2",
+    "type": "Cinema Motion Picture",
+    "formats": [
+      "135"
+    ]
+  },
+  {
+    "id": "film-kodak-vision3-50d",
+    "brand": "Kodak",
+    "name": "Vision3 50D 5203",
+    "nominalIso": 50,
+    "process": "ECN-2",
+    "type": "Cinema Motion Picture",
+    "formats": [
+      "135"
+    ]
+  }
+]

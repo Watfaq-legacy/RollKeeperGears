@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cam-olympus-om1",
+    "brand": "Olympus",
+    "model": "OM-1",
+    "format": "135",
+    "cameraType": "SLR"
+  },
+  {
+    "id": "cam-olympus-om2",
+    "brand": "Olympus",
+    "model": "OM-2",
+    "format": "135",
+    "cameraType": "SLR"
+  },
+  {
+    "id": "cam-olympus-om4ti",
+    "brand": "Olympus",
+    "model": "OM-4Ti",
+    "format": "135",
+    "cameraType": "SLR"
+  },
+  {
+    "id": "cam-olympus-mju2",
+    "brand": "Olympus",
+    "model": "Mju II / Stylus Epic",
+    "format": "135",
+    "cameraType": "Point & Shoot"
+  },
+  {
+    "id": "cam-olympus-xa",
+    "brand": "Olympus",
+    "model": "XA",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  }
+]

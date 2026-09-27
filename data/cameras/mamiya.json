@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cam-mamiya-7ii",
+    "brand": "Mamiya",
+    "model": "7 II",
+    "format": "120 (6x7)",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-mamiya-6",
+    "brand": "Mamiya",
+    "model": "6",
+    "format": "120 (6x6)",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-mamiya-rb67",
+    "brand": "Mamiya",
+    "model": "RB67 Pro-SD",
+    "format": "120 (6x7)",
+    "cameraType": "SLR"
+  },
+  {
+    "id": "cam-mamiya-rz67",
+    "brand": "Mamiya",
+    "model": "RZ67 Pro II",
+    "format": "120 (6x7)",
+    "cameraType": "SLR"
+  }
+]

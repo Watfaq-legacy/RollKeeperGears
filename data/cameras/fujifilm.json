@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cam-fuji-gw690iii",
+    "brand": "Fujifilm",
+    "model": "GW690 III",
+    "format": "120 (6x9)",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-fuji-gf670",
+    "brand": "Fujifilm",
+    "model": "GF670 Folder",
+    "format": "120 (6x6/6x7)",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-fuji-ga645",
+    "brand": "Fujifilm",
+    "model": "GA645 Professional",
+    "format": "120 (645)",
+    "cameraType": "Point & Shoot"
+  },
+  {
+    "id": "cam-fuji-klasse-w",
+    "brand": "Fujifilm",
+    "model": "Klasse W",
+    "format": "135",
+    "cameraType": "Point & Shoot"
+  },
+  {
+    "id": "cam-fuji-tx1",
+    "brand": "Fujifilm",
+    "model": "TX-1",
+    "format": "135 Panoramic",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-fuji-xt5",
+    "brand": "Fujifilm",
+    "model": "X-T5",
+    "format": "APS-C Digital",
+    "cameraType": "Mirrorless Digital"
+  },
+  {
+    "id": "cam-fuji-x100vi",
+    "brand": "Fujifilm",
+    "model": "X100VI",
+    "format": "APS-C Digital",
+    "cameraType": "Compact Digital"
+  },
+  {
+    "id": "cam-fuji-gfx100ii",
+    "brand": "Fujifilm",
+    "model": "GFX 100 II",
+    "format": "Medium Format Digital",
+    "cameraType": "Mirrorless Digital"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "rollkeeper-gears",
+  "version": "1.0.0",
+  "description": "Modular photography gear database for RollKeeper",
+  "main": "dist/gears.json",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "build:bump": "node scripts/build.js --bump",
+    "build:sync": "node scripts/build.js --sync",
+    "test": "node scripts/build.js"
+  },
+  "keywords": [
+    "photography",
+    "exif",
+    "cameras",
+    "lenses",
+    "film",
+    "darkroom",
+    "rollkeeper"
+  ],
+  "author": "RollKeeper",
+  "license": "MIT"
+}

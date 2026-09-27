@@ -1,0 +1,50 @@
+[
+  {
+    "id": "lens-canon-fd-50-14",
+    "brand": "Canon",
+    "model": "FD 50mm f/1.4 S.S.C.",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.4",
+    "mount": "Canon FD"
+  },
+  {
+    "id": "lens-canon-fd-35-2",
+    "brand": "Canon",
+    "model": "FD 35mm f/2",
+    "focalLength": "35mm",
+    "maxAperture": "f/2",
+    "mount": "Canon FD"
+  },
+  {
+    "id": "lens-canon-fd-24-28",
+    "brand": "Canon",
+    "model": "FD 24mm f/2.8",
+    "focalLength": "24mm",
+    "maxAperture": "f/2.8",
+    "mount": "Canon FD"
+  },
+  {
+    "id": "lens-canon-fd-85-18",
+    "brand": "Canon",
+    "model": "FD 85mm f/1.8",
+    "focalLength": "85mm",
+    "maxAperture": "f/1.8",
+    "mount": "Canon FD"
+  },
+  {
+    "id": "lens-canon-rf-50-12",
+    "brand": "Canon",
+    "model": "RF 50mm f/1.2L USM",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.2",
+    "mount": "Canon RF"
+  },
+  {
+    "id": "lens-canon-rf-2470-28",
+    "brand": "Canon",
+    "model": "RF 24-70mm f/2.8L IS USM",
+    "focalLength": "24-70mm",
+    "maxAperture": "f/2.8",
+    "mount": "Canon RF"
+  }
+]

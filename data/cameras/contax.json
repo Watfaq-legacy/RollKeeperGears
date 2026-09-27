@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cam-contax-t2",
+    "brand": "Contax",
+    "model": "T2",
+    "format": "135",
+    "cameraType": "Point & Shoot"
+  },
+  {
+    "id": "cam-contax-t3",
+    "brand": "Contax",
+    "model": "T3",
+    "format": "135",
+    "cameraType": "Point & Shoot"
+  },
+  {
+    "id": "cam-contax-g1",
+    "brand": "Contax",
+    "model": "G1",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-contax-g2",
+    "brand": "Contax",
+    "model": "G2",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-contax-rts3",
+    "brand": "Contax",
+    "model": "RTS III",
+    "format": "135",
+    "cameraType": "SLR"
+  },
+  {
+    "id": "cam-contax-aria",
+    "brand": "Contax",
+    "model": "Aria",
+    "format": "135",
+    "cameraType": "SLR"
+  }
+]

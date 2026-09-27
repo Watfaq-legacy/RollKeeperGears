@@ -1,0 +1,50 @@
+[
+  {
+    "id": "film-cinestill-800t",
+    "brand": "CineStill",
+    "name": "800T Tungsten",
+    "nominalIso": 800,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-cinestill-50d",
+    "brand": "CineStill",
+    "name": "50D Daylight",
+    "nominalIso": 50,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-cinestill-400d",
+    "brand": "CineStill",
+    "name": "400Dynamic",
+    "nominalIso": 400,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-cinestill-bwxx",
+    "brand": "CineStill",
+    "name": "BwXX Double-X",
+    "nominalIso": 250,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "film-rollei-retro-80s",
+    "brand": "Rollei",
+    "name": "Retro 80S",
+    "nominalIso": 80,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-rollei-retro-400s",
+    "brand": "Rollei",
+    "name": "Retro 400S",
+    "nominalIso": 400,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-rollei-ortho-25",
+    "brand": "Rollei",
+    "name": "Ortho 25 Plus",
+    "nominalIso": 25,
+    "process": "B&W",
+    "type": "Orthochromatic B&W",
+    "formats": [
+      "135",
+      "120"
+    ]
+  }
+]

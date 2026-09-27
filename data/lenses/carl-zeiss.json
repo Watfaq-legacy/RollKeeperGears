@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lens-zeiss-80-planar",
+    "brand": "Carl Zeiss",
+    "model": "Planar T* 80mm f/2.8 CF",
+    "focalLength": "80mm",
+    "maxAperture": "f/2.8",
+    "mount": "Hasselblad V"
+  },
+  {
+    "id": "lens-zeiss-50-distagon",
+    "brand": "Carl Zeiss",
+    "model": "Distagon T* 50mm f/4 FLE",
+    "focalLength": "50mm",
+    "maxAperture": "f/4",
+    "mount": "Hasselblad V"
+  },
+  {
+    "id": "lens-zeiss-150-sonnar",
+    "brand": "Carl Zeiss",
+    "model": "Sonnar T* 150mm f/4 CF",
+    "focalLength": "150mm",
+    "maxAperture": "f/4",
+    "mount": "Hasselblad V"
+  },
+  {
+    "id": "lens-zeiss-45-planar-g",
+    "brand": "Carl Zeiss",
+    "model": "Planar T* 45mm f/2",
+    "focalLength": "45mm",
+    "maxAperture": "f/2",
+    "mount": "Contax G"
+  },
+  {
+    "id": "lens-zeiss-28-biogon-g",
+    "brand": "Carl Zeiss",
+    "model": "Biogon T* 28mm f/2.8",
+    "focalLength": "28mm",
+    "maxAperture": "f/2.8",
+    "mount": "Contax G"
+  },
+  {
+    "id": "lens-zeiss-90-sonnar-g",
+    "brand": "Carl Zeiss",
+    "model": "Sonnar T* 90mm f/2.8",
+    "focalLength": "90mm",
+    "maxAperture": "f/2.8",
+    "mount": "Contax G"
+  },
+  {
+    "id": "lens-zeiss-50-planar-cy",
+    "brand": "Carl Zeiss",
+    "model": "Planar T* 50mm f/1.4",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.4",
+    "mount": "Contax C/Y"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cam-ricoh-gr1v",
+    "brand": "Ricoh",
+    "model": "GR1v",
+    "format": "135",
+    "cameraType": "Point & Shoot"
+  },
+  {
+    "id": "cam-ricoh-gr3",
+    "brand": "Ricoh",
+    "model": "GR III",
+    "format": "APS-C Digital",
+    "cameraType": "Compact Digital"
+  },
+  {
+    "id": "cam-ricoh-gr3x",
+    "brand": "Ricoh",
+    "model": "GR IIIx",
+    "format": "APS-C Digital",
+    "cameraType": "Compact Digital"
+  }
+]

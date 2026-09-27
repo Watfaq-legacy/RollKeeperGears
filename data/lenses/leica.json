@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lens-leica-35-summicron",
+    "brand": "Leica",
+    "model": "Summicron-M 35mm f/2 ASPH",
+    "focalLength": "35mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M"
+  },
+  {
+    "id": "lens-leica-35-summilux",
+    "brand": "Leica",
+    "model": "Summilux-M 35mm f/1.4 ASPH",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M"
+  },
+  {
+    "id": "lens-leica-50-summicron",
+    "brand": "Leica",
+    "model": "Summicron-M 50mm f/2",
+    "focalLength": "50mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M"
+  },
+  {
+    "id": "lens-leica-50-summilux",
+    "brand": "Leica",
+    "model": "Summilux-M 50mm f/1.4 ASPH",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M"
+  },
+  {
+    "id": "lens-leica-50-noctilux",
+    "brand": "Leica",
+    "model": "Noctilux-M 50mm f/1.0",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.0",
+    "mount": "Leica M"
+  },
+  {
+    "id": "lens-leica-28-elmarit",
+    "brand": "Leica",
+    "model": "Elmarit-M 28mm f/2.8 ASPH",
+    "focalLength": "28mm",
+    "maxAperture": "f/2.8",
+    "mount": "Leica M"
+  },
+  {
+    "id": "lens-leica-90-tele-elmarit",
+    "brand": "Leica",
+    "model": "Tele-Elmarit-M 90mm f/2.8",
+    "focalLength": "90mm",
+    "maxAperture": "f/2.8",
+    "mount": "Leica M"
+  }
+]

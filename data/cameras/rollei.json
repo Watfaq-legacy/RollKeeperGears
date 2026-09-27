@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cam-rolleiflex-28f",
+    "brand": "Rolleiflex",
+    "model": "2.8F Planar",
+    "format": "120 (6x6)",
+    "cameraType": "TLR"
+  },
+  {
+    "id": "cam-rolleiflex-35f",
+    "brand": "Rolleiflex",
+    "model": "3.5F Planar",
+    "format": "120 (6x6)",
+    "cameraType": "TLR"
+  },
+  {
+    "id": "cam-rollei-35s",
+    "brand": "Rollei",
+    "model": "35 S",
+    "format": "135",
+    "cameraType": "Scale Focus"
+  }
+]

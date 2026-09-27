@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cam-hasselblad-500cm",
+    "brand": "Hasselblad",
+    "model": "500 C/M",
+    "format": "120 (6x6)",
+    "cameraType": "SLR"
+  },
+  {
+    "id": "cam-hasselblad-503cw",
+    "brand": "Hasselblad",
+    "model": "503CW",
+    "format": "120 (6x6)",
+    "cameraType": "SLR"
+  },
+  {
+    "id": "cam-hasselblad-xpan",
+    "brand": "Hasselblad",
+    "model": "XPan",
+    "format": "135 Panoramic",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-hasselblad-xpan2",
+    "brand": "Hasselblad",
+    "model": "XPan II",
+    "format": "135 Panoramic",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-hasselblad-x2d",
+    "brand": "Hasselblad",
+    "model": "X2D 100C",
+    "format": "Medium Format Digital",
+    "cameraType": "Mirrorless Digital"
+  }
+]

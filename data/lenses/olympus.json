@@ -1,0 +1,18 @@
+[
+  {
+    "id": "lens-olympus-om-50-14",
+    "brand": "Olympus",
+    "model": "OM Zuiko 50mm f/1.4",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.4",
+    "mount": "Olympus OM"
+  },
+  {
+    "id": "lens-olympus-om-28-28",
+    "brand": "Olympus",
+    "model": "OM Zuiko 28mm f/2.8",
+    "focalLength": "28mm",
+    "maxAperture": "f/2.8",
+    "mount": "Olympus OM"
+  }
+]

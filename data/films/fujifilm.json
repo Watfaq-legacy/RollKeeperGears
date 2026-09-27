@@ -1,0 +1,86 @@
+[
+  {
+    "id": "film-fuji-provia-100f",
+    "brand": "Fujifilm",
+    "name": "Provia 100F RDPIII",
+    "nominalIso": 100,
+    "process": "E-6",
+    "type": "Color Reversal (Slide)",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "film-fuji-velvia-50",
+    "brand": "Fujifilm",
+    "name": "Velvia 50 RVP",
+    "nominalIso": 50,
+    "process": "E-6",
+    "type": "Color Reversal (Slide)",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "film-fuji-velvia-100",
+    "brand": "Fujifilm",
+    "name": "Velvia 100 RVP100",
+    "nominalIso": 100,
+    "process": "E-6",
+    "type": "Color Reversal (Slide)",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-fuji-acros-ii",
+    "brand": "Fujifilm",
+    "name": "Neopan 100 Acros II",
+    "nominalIso": 100,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-fuji-superia-400",
+    "brand": "Fujifilm",
+    "name": "Superia X-TRA 400",
+    "nominalIso": 400,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135"
+    ]
+  },
+  {
+    "id": "film-fuji-pro400h",
+    "brand": "Fujifilm",
+    "name": "Fujicolor Pro 400H",
+    "nominalIso": 400,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-fuji-c200",
+    "brand": "Fujifilm",
+    "name": "Fujicolor C200",
+    "nominalIso": 200,
+    "process": "C-41",
+    "type": "Color Negative",
+    "formats": [
+      "135"
+    ]
+  }
+]

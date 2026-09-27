@@ -1,0 +1,100 @@
+[
+  {
+    "id": "film-ilford-hp5-plus",
+    "brand": "Ilford",
+    "name": "HP5 Plus 400",
+    "nominalIso": 400,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "film-ilford-fp4-plus",
+    "brand": "Ilford",
+    "name": "FP4 Plus 125",
+    "nominalIso": 125,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "film-ilford-delta-100",
+    "brand": "Ilford",
+    "name": "Delta 100 Professional",
+    "nominalIso": 100,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-ilford-delta-400",
+    "brand": "Ilford",
+    "name": "Delta 400 Professional",
+    "nominalIso": 400,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-ilford-delta-3200",
+    "brand": "Ilford",
+    "name": "Delta 3200 Professional",
+    "nominalIso": 3200,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-ilford-pan-f",
+    "brand": "Ilford",
+    "name": "Pan F Plus 50",
+    "nominalIso": 50,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-ilford-xp2",
+    "brand": "Ilford",
+    "name": "XP2 Super 400",
+    "nominalIso": 400,
+    "process": "C-41",
+    "type": "Chromogenic Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-ilford-ortho-80",
+    "brand": "Ilford",
+    "name": "Ortho Plus 80",
+    "nominalIso": 80,
+    "process": "B&W",
+    "type": "Orthochromatic B&W",
+    "formats": [
+      "135",
+      "120"
+    ]
+  }
+]

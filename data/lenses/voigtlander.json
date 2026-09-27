@@ -1,0 +1,154 @@
+[
+  {
+    "id": "lens-voigtlander-35-nokton-ii",
+    "brand": "Voigtländer",
+    "model": "Nokton Classic 35mm f/1.4 II VM",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-35-nokton-12",
+    "brand": "Voigtländer",
+    "model": "Nokton 35mm f/1.2 III Aspherical VM",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.2",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-35-ultron",
+    "brand": "Voigtländer",
+    "model": "Ultron Vintage Line 35mm f/2 Aspherical Type II VM",
+    "focalLength": "35mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-35-skopar",
+    "brand": "Voigtländer",
+    "model": "Color-Skopar 35mm f/2.5 P II VM",
+    "focalLength": "35mm",
+    "maxAperture": "f/2.5",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-35-apo",
+    "brand": "Voigtländer",
+    "model": "APO-LANTHAR 35mm f/2 Aspherical VM",
+    "focalLength": "35mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-50-nokton-10",
+    "brand": "Voigtländer",
+    "model": "Nokton 50mm f/1.0 Aspherical VM",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.0",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-50-nokton-12",
+    "brand": "Voigtländer",
+    "model": "Nokton 50mm f/1.2 Aspherical VM",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.2",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-50-nokton-15",
+    "brand": "Voigtländer",
+    "model": "Nokton Vintage Line 50mm f/1.5 II Aspherical VM",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.5",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-50-apo",
+    "brand": "Voigtländer",
+    "model": "APO-LANTHAR 50mm f/2 Aspherical VM",
+    "focalLength": "50mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-50-heliar",
+    "brand": "Voigtländer",
+    "model": "Heliar Classic 50mm f/1.5 VM",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.5",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-40-nokton",
+    "brand": "Voigtländer",
+    "model": "Nokton Classic 40mm f/1.4 S.C. / M.C. VM",
+    "focalLength": "40mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-40-heliar",
+    "brand": "Voigtländer",
+    "model": "Heliar 40mm f/2.8 Aspherical VM",
+    "focalLength": "40mm",
+    "maxAperture": "f/2.8",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-28-ultron",
+    "brand": "Voigtländer",
+    "model": "Ultron Vintage Line 28mm f/2 Type II VM",
+    "focalLength": "28mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-28-skopar",
+    "brand": "Voigtländer",
+    "model": "Color-Skopar 28mm f/2.8 Aspherical Type II VM",
+    "focalLength": "28mm",
+    "maxAperture": "f/2.8",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-21-nokton",
+    "brand": "Voigtländer",
+    "model": "Nokton 21mm f/1.4 Aspherical VM",
+    "focalLength": "21mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-21-skopar",
+    "brand": "Voigtländer",
+    "model": "Color-Skopar 21mm f/3.5 Aspherical VM",
+    "focalLength": "21mm",
+    "maxAperture": "f/3.5",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-15-heliar",
+    "brand": "Voigtländer",
+    "model": "Super Wide-Heliar 15mm f/4.5 Aspherical III VM",
+    "focalLength": "15mm",
+    "maxAperture": "f/4.5",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-75-heliar",
+    "brand": "Voigtländer",
+    "model": "Heliar Classic 75mm f/1.5 Aspherical VM",
+    "focalLength": "75mm",
+    "maxAperture": "f/1.5",
+    "mount": "Leica M (VM)"
+  },
+  {
+    "id": "lens-voigtlander-90-apo",
+    "brand": "Voigtländer",
+    "model": "APO-SKOPAR 90mm f/2.8 VM",
+    "focalLength": "90mm",
+    "maxAperture": "f/2.8",
+    "mount": "Leica M (VM)"
+  }
+]

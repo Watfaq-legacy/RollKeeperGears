@@ -1,0 +1,14 @@
+[
+  {
+    "id": "dev-ilford-id11",
+    "brand": "Ilford",
+    "name": "ID-11 (Stock / 1:1)",
+    "process": "B&W"
+  },
+  {
+    "id": "dev-ilford-ddx",
+    "brand": "Ilford",
+    "name": "Ilfotec DD-X (1:4)",
+    "process": "B&W"
+  }
+]

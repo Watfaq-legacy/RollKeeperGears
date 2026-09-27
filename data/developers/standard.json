@@ -1,0 +1,20 @@
+[
+  {
+    "id": "dev-c41-standard",
+    "brand": "Standard",
+    "name": "Standard C-41 Lab Process",
+    "process": "C-41"
+  },
+  {
+    "id": "dev-ecn2-standard",
+    "brand": "Standard",
+    "name": "Standard ECN-2 Process (Remjet Removed)",
+    "process": "ECN-2"
+  },
+  {
+    "id": "dev-e6-standard",
+    "brand": "Standard",
+    "name": "Standard E-6 Reversal Process",
+    "process": "E-6"
+  }
+]

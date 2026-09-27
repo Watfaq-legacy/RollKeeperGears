@@ -1,0 +1,39 @@
+[
+  {
+    "id": "film-foma-100",
+    "brand": "Foma",
+    "name": "Fomapan 100 Classic",
+    "nominalIso": 100,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120",
+      "4x5"
+    ]
+  },
+  {
+    "id": "film-foma-200",
+    "brand": "Foma",
+    "name": "Fomapan 200 Creative",
+    "nominalIso": 200,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  },
+  {
+    "id": "film-foma-400",
+    "brand": "Foma",
+    "name": "Fomapan 400 Action",
+    "nominalIso": 400,
+    "process": "B&W",
+    "type": "Black & White",
+    "formats": [
+      "135",
+      "120"
+    ]
+  }
+]

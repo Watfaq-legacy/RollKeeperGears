@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cam-minolta-tc1",
+    "brand": "Minolta",
+    "model": "TC-1",
+    "format": "135",
+    "cameraType": "Point & Shoot"
+  },
+  {
+    "id": "cam-minolta-cle",
+    "brand": "Minolta",
+    "model": "CLE",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-minolta-xd11",
+    "brand": "Minolta",
+    "model": "XD-11",
+    "format": "135",
+    "cameraType": "SLR"
+  }
+]

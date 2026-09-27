@@ -1,0 +1,72 @@
+[
+  {
+    "id": "cam-leica-m6",
+    "brand": "Leica",
+    "model": "M6 Classic",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-leica-m6-ttl",
+    "brand": "Leica",
+    "model": "M6 TTL",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-leica-m3",
+    "brand": "Leica",
+    "model": "M3",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-leica-m2",
+    "brand": "Leica",
+    "model": "M2",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-leica-m4",
+    "brand": "Leica",
+    "model": "M4",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-leica-mp",
+    "brand": "Leica",
+    "model": "MP",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-leica-m7",
+    "brand": "Leica",
+    "model": "M7",
+    "format": "135",
+    "cameraType": "Rangefinder"
+  },
+  {
+    "id": "cam-leica-minilux",
+    "brand": "Leica",
+    "model": "Minilux",
+    "format": "135",
+    "cameraType": "Point & Shoot"
+  },
+  {
+    "id": "cam-leica-q3",
+    "brand": "Leica",
+    "model": "Q3",
+    "format": "Full Frame 35mm",
+    "cameraType": "Compact Digital"
+  },
+  {
+    "id": "cam-leica-m11",
+    "brand": "Leica",
+    "model": "M11",
+    "format": "Full Frame 35mm",
+    "cameraType": "Rangefinder Digital"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cam-sony-a7m4",
+    "brand": "Sony",
+    "model": "ILCE-7M4 (A7 IV)",
+    "format": "Full Frame 35mm",
+    "cameraType": "Mirrorless Digital"
+  },
+  {
+    "id": "cam-sony-a7r5",
+    "brand": "Sony",
+    "model": "ILCE-7RM5 (A7R V)",
+    "format": "Full Frame 35mm",
+    "cameraType": "Mirrorless Digital"
+  },
+  {
+    "id": "cam-sony-a7c2",
+    "brand": "Sony",
+    "model": "ILCE-7CM2 (A7C II)",
+    "format": "Full Frame 35mm",
+    "cameraType": "Mirrorless Digital"
+  }
+]
