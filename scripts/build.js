@@ -21,7 +21,13 @@ function loadCategory(category) {
   for (const file of files) {
     const fullPath = path.join(dir, file);
     try {
-      const content = JSON.parse(fs.readFileSync(fullPath, 'utf-8'));
+      const rawText = fs.readFileSync(fullPath, 'utf-8');
+      const chineseMatches = rawText.match(/[\u4e00-\u9fa5]/);
+      if (chineseMatches) {
+        throw new Error(`File ${file} contains Chinese characters: "${chineseMatches[0]}". Database records must use standard international English notation.`);
+      }
+
+      const content = JSON.parse(rawText);
       if (!Array.isArray(content)) {
         throw new Error(`File ${file} does not contain a JSON array.`);
       }

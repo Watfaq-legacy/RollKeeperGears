@@ -2,7 +2,7 @@
   {
     "id": "lens-pentax-67-105-early",
     "brand": "Pentax",
-    "model": "Super-Multi-Coated Takumar 6x7 105mm f/2.4 (前期版)",
+    "model": "Super-Multi-Coated Takumar 6x7 105mm f/2.4 (Early Version)",
     "focalLength": "105mm",
     "maxAperture": "f/2.4",
     "mount": "Pentax 67",
@@ -11,7 +11,7 @@
   {
     "id": "lens-pentax-67-105-late",
     "brand": "Pentax",
-    "model": "SMC Pentax 67 105mm f/2.4 (后期版)",
+    "model": "SMC Pentax 67 105mm f/2.4 (Late Version)",
     "focalLength": "105mm",
     "maxAperture": "f/2.4",
     "mount": "Pentax 67",

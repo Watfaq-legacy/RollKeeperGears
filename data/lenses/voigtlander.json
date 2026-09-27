@@ -2,7 +2,7 @@
   {
     "id": "lens-voigtlander-35-nokton-15-type1",
     "brand": "Voigtländer",
-    "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type I (铝合金黑 188g)",
+    "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type I (Aluminum Black 188g)",
     "focalLength": "35mm",
     "maxAperture": "f/1.5",
     "mount": "Leica M (VM)",
@@ -11,7 +11,7 @@
   {
     "id": "lens-voigtlander-35-nokton-15-type2",
     "brand": "Voigtländer",
-    "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type II (黄铜黑漆/银 284g)",
+    "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type II (Brass Black/Silver 284g)",
     "focalLength": "35mm",
     "maxAperture": "f/1.5",
     "mount": "Leica M (VM)",
@@ -65,7 +65,7 @@
   {
     "id": "lens-voigtlander-35-ultron-type1",
     "brand": "Voigtländer",
-    "model": "Ultron Vintage Line 35mm f/2 Aspherical Type I (圆柱拨杆)",
+    "model": "Ultron Vintage Line 35mm f/2 Aspherical Type I (Focusing Lever)",
     "focalLength": "35mm",
     "maxAperture": "f/2",
     "mount": "Leica M (VM)",
@@ -74,7 +74,7 @@
   {
     "id": "lens-voigtlander-35-ultron-type2",
     "brand": "Voigtländer",
-    "model": "Ultron Vintage Line 35mm f/2 Aspherical Type II (月牙指柄)",
+    "model": "Ultron Vintage Line 35mm f/2 Aspherical Type II (Focusing Tab)",
     "focalLength": "35mm",
     "maxAperture": "f/2",
     "mount": "Leica M (VM)",
@@ -92,7 +92,7 @@
   {
     "id": "lens-voigtlander-35-skopar",
     "brand": "Voigtländer",
-    "model": "Color-Skopar 35mm f/2.5 P II VM (饼干头)",
+    "model": "Color-Skopar 35mm f/2.5 P II VM (Pancake)",
     "focalLength": "35mm",
     "maxAperture": "f/2.5",
     "mount": "Leica M (VM)",
@@ -137,7 +137,7 @@
   {
     "id": "lens-voigtlander-50-heliar",
     "brand": "Voigtländer",
-    "model": "Heliar Classic 50mm f/1.5 VM (古典像差散景)",
+    "model": "Heliar Classic 50mm f/1.5 VM (Classic Bokeh)",
     "focalLength": "50mm",
     "maxAperture": "f/1.5",
     "mount": "Leica M (VM)",
@@ -155,7 +155,7 @@
   {
     "id": "lens-voigtlander-40-heliar",
     "brand": "Voigtländer",
-    "model": "Heliar 40mm f/2.8 Aspherical VM (极轻薄复古)",
+    "model": "Heliar 40mm f/2.8 Aspherical VM (Compact Vintage)",
     "focalLength": "40mm",
     "maxAperture": "f/2.8",
     "mount": "Leica M (VM)",
@@ -164,7 +164,7 @@
   {
     "id": "lens-voigtlander-28-ultron-type1",
     "brand": "Voigtländer",
-    "model": "Ultron Vintage Line 28mm f/2 Aspherical Type I (圆柱杆)",
+    "model": "Ultron Vintage Line 28mm f/2 Aspherical Type I (Focusing Lever)",
     "focalLength": "28mm",
     "maxAperture": "f/2",
     "mount": "Leica M (VM)",
@@ -173,7 +173,7 @@
   {
     "id": "lens-voigtlander-28-ultron-type2",
     "brand": "Voigtländer",
-    "model": "Ultron Vintage Line 28mm f/2 Aspherical Type II (月牙指柄)",
+    "model": "Ultron Vintage Line 28mm f/2 Aspherical Type II (Focusing Tab)",
     "focalLength": "28mm",
     "maxAperture": "f/2",
     "mount": "Leica M (VM)",
@@ -182,7 +182,7 @@
   {
     "id": "lens-voigtlander-28-skopar-type1",
     "brand": "Voigtländer",
-    "model": "Color-Skopar 28mm f/2.8 Aspherical Type I (超薄旋转头)",
+    "model": "Color-Skopar 28mm f/2.8 Aspherical Type I (Slim Rotating)",
     "focalLength": "28mm",
     "maxAperture": "f/2.8",
     "mount": "Leica M (VM)",
@@ -191,7 +191,7 @@
   {
     "id": "lens-voigtlander-28-skopar-type2",
     "brand": "Voigtländer",
-    "model": "Color-Skopar 28mm f/2.8 Aspherical Type II (现代对焦指柄)",
+    "model": "Color-Skopar 28mm f/2.8 Aspherical Type II (Modern Focusing Tab)",
     "focalLength": "28mm",
     "maxAperture": "f/2.8",
     "mount": "Leica M (VM)",

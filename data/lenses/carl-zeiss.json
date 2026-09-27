@@ -2,7 +2,7 @@
   {
     "id": "lens-zeiss-80-planar-c",
     "brand": "Carl Zeiss",
-    "model": "Planar C 80mm f/2.8 (白头/黑头 Synchro-Compur)",
+    "model": "Planar C 80mm f/2.8 (Chrome / Black Synchro-Compur)",
     "focalLength": "80mm",
     "maxAperture": "f/2.8",
     "mount": "Hasselblad V",
@@ -47,7 +47,7 @@
   {
     "id": "lens-zeiss-45-planar-g",
     "brand": "Carl Zeiss",
-    "model": "Planar T* 45mm f/2 (Contax G 标杆锐度)",
+    "model": "Planar T* 45mm f/2 (Contax G)",
     "focalLength": "45mm",
     "maxAperture": "f/2",
     "mount": "Contax G",
@@ -110,7 +110,7 @@
   {
     "id": "lens-zeiss-50-c-sonnar-zm",
     "brand": "Carl Zeiss",
-    "model": "C Sonnar T* 50mm f/1.5 ZM (古典柔美虚化)",
+    "model": "C Sonnar T* 50mm f/1.5 ZM (Classic Bokeh)",
     "focalLength": "50mm",
     "maxAperture": "f/1.5",
     "mount": "Leica M (ZM)",

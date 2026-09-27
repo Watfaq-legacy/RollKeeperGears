@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-09-27T22:41:37.078Z",
+  "version": 5,
+  "updatedAt": "2026-09-27T22:43:00.692Z",
   "cameras": [
     {
       "id": "cam-canon-ae1",
@@ -637,7 +637,7 @@
     {
       "id": "lens-canon-fd-50-14",
       "brand": "Canon",
-      "model": "FD 50mm f/1.4 S.S.C. (银环版 Chrome Nose)",
+      "model": "FD 50mm f/1.4 S.S.C. (Chrome Nose)",
       "focalLength": "50mm",
       "maxAperture": "f/1.4",
       "mount": "Canon FD",
@@ -646,7 +646,7 @@
     {
       "id": "lens-canon-nfd-50-14",
       "brand": "Canon",
-      "model": "New FD 50mm f/1.4 (卡口钮锁版)",
+      "model": "New FD 50mm f/1.4 (nFD Bayonet Lock)",
       "focalLength": "50mm",
       "maxAperture": "f/1.4",
       "mount": "Canon FD",
@@ -655,7 +655,7 @@
     {
       "id": "lens-canon-fd-35-2",
       "brand": "Canon",
-      "model": "FD 35mm f/2 (凹玉 Concave 钍玻璃)",
+      "model": "FD 35mm f/2 (Concave Thorium Element)",
       "focalLength": "35mm",
       "maxAperture": "f/2",
       "mount": "Canon FD",
@@ -709,7 +709,7 @@
     {
       "id": "lens-zeiss-80-planar-c",
       "brand": "Carl Zeiss",
-      "model": "Planar C 80mm f/2.8 (白头/黑头 Synchro-Compur)",
+      "model": "Planar C 80mm f/2.8 (Chrome / Black Synchro-Compur)",
       "focalLength": "80mm",
       "maxAperture": "f/2.8",
       "mount": "Hasselblad V",
@@ -754,7 +754,7 @@
     {
       "id": "lens-zeiss-45-planar-g",
       "brand": "Carl Zeiss",
-      "model": "Planar T* 45mm f/2 (Contax G 标杆锐度)",
+      "model": "Planar T* 45mm f/2 (Contax G)",
       "focalLength": "45mm",
       "maxAperture": "f/2",
       "mount": "Contax G",
@@ -817,7 +817,7 @@
     {
       "id": "lens-zeiss-50-c-sonnar-zm",
       "brand": "Carl Zeiss",
-      "model": "C Sonnar T* 50mm f/1.5 ZM (古典柔美虚化)",
+      "model": "C Sonnar T* 50mm f/1.5 ZM (Classic Bokeh)",
       "focalLength": "50mm",
       "maxAperture": "f/1.5",
       "mount": "Leica M (ZM)",
@@ -844,7 +844,7 @@
     {
       "id": "lens-leica-35-summicron-v1",
       "brand": "Leica",
-      "model": "Summicron-M 35mm f/2 (v1 八枚玉 8-Element)",
+      "model": "Summicron-M 35mm f/2 (v1 8-Element)",
       "focalLength": "35mm",
       "maxAperture": "f/2",
       "mount": "Leica M",
@@ -853,7 +853,7 @@
     {
       "id": "lens-leica-35-summicron-v4",
       "brand": "Leica",
-      "model": "Summicron-M 35mm f/2 (v4 七枚玉 King of Bokeh)",
+      "model": "Summicron-M 35mm f/2 (v4 King of Bokeh)",
       "focalLength": "35mm",
       "maxAperture": "f/2",
       "mount": "Leica M",
@@ -862,7 +862,7 @@
     {
       "id": "lens-leica-35-summicron-asph-i",
       "brand": "Leica",
-      "model": "Summicron-M 35mm f/2 ASPH (I 代 11879/11882)",
+      "model": "Summicron-M 35mm f/2 ASPH (v1 11879/11882)",
       "focalLength": "35mm",
       "maxAperture": "f/2",
       "mount": "Leica M",
@@ -871,7 +871,7 @@
     {
       "id": "lens-leica-35-summicron-asph-ii",
       "brand": "Leica",
-      "model": "Summicron-M 35mm f/2 ASPH II (II 代 11673/11674 现行版)",
+      "model": "Summicron-M 35mm f/2 ASPH II (v2 11673/11674 Current)",
       "focalLength": "35mm",
       "maxAperture": "f/2",
       "mount": "Leica M",
@@ -880,7 +880,7 @@
     {
       "id": "lens-leica-35-summilux-v1",
       "brand": "Leica",
-      "model": "Summilux-M 35mm f/1.4 (v1 钢嘴 Steel Rim 11873)",
+      "model": "Summilux-M 35mm f/1.4 (v1 Steel Rim 11873)",
       "focalLength": "35mm",
       "maxAperture": "f/1.4",
       "mount": "Leica M",
@@ -898,7 +898,7 @@
     {
       "id": "lens-leica-35-summilux-fle-ii",
       "brand": "Leica",
-      "model": "Summilux-M 35mm f/1.4 ASPH FLE II (11301 近摄版)",
+      "model": "Summilux-M 35mm f/1.4 ASPH FLE II (11301 Close-Focus)",
       "focalLength": "35mm",
       "maxAperture": "f/1.4",
       "mount": "Leica M",
@@ -907,7 +907,7 @@
     {
       "id": "lens-leica-50-summicron-v1",
       "brand": "Leica",
-      "model": "Summicron-M 50mm f/2 (v1 刚起 / 沉头 / 双量程 DR)",
+      "model": "Summicron-M 50mm f/2 (v1 Rigid / Collapsible / Dual Range)",
       "focalLength": "50mm",
       "maxAperture": "f/2",
       "mount": "Leica M",
@@ -916,7 +916,7 @@
     {
       "id": "lens-leica-50-summicron-v4",
       "brand": "Leica",
-      "model": "Summicron-M 50mm f/2 (v4/v5 现行内置遮光罩 11826)",
+      "model": "Summicron-M 50mm f/2 (v4/v5 Built-in Hood 11826)",
       "focalLength": "50mm",
       "maxAperture": "f/2",
       "mount": "Leica M",
@@ -952,7 +952,7 @@
     {
       "id": "lens-leica-50-summilux-asph-ii",
       "brand": "Leica",
-      "model": "Summilux-M 50mm f/1.4 ASPH II (11728/11729 近摄版)",
+      "model": "Summilux-M 50mm f/1.4 ASPH II (11728/11729 Close-Focus)",
       "focalLength": "50mm",
       "maxAperture": "f/1.4",
       "mount": "Leica M",
@@ -961,7 +961,7 @@
     {
       "id": "lens-leica-50-noctilux-10",
       "brand": "Leica",
-      "model": "Noctilux-M 50mm f/1.0 (E58 / E60 经典夜神)",
+      "model": "Noctilux-M 50mm f/1.0 (E58 / E60)",
       "focalLength": "50mm",
       "maxAperture": "f/1.0",
       "mount": "Leica M",
@@ -979,7 +979,7 @@
     {
       "id": "lens-leica-50-noctilux-12",
       "brand": "Leica",
-      "model": "Noctilux-M 50mm f/1.2 ASPH (11686 经典复刻版)",
+      "model": "Noctilux-M 50mm f/1.2 ASPH (11686 Heritage Reissue)",
       "focalLength": "50mm",
       "maxAperture": "f/1.2",
       "mount": "Leica M",
@@ -988,7 +988,7 @@
     {
       "id": "lens-leica-28-elmarit-v1",
       "brand": "Leica",
-      "model": "Elmarit-M 28mm f/2.8 (v1 九枚玉 9-Element)",
+      "model": "Elmarit-M 28mm f/2.8 (v1 9-Element)",
       "focalLength": "28mm",
       "maxAperture": "f/2.8",
       "mount": "Leica M",
@@ -997,7 +997,7 @@
     {
       "id": "lens-leica-28-elmarit-asph",
       "brand": "Leica",
-      "model": "Elmarit-M 28mm f/2.8 ASPH (11606/11677 极小巧)",
+      "model": "Elmarit-M 28mm f/2.8 ASPH (11606/11677 Compact)",
       "focalLength": "28mm",
       "maxAperture": "f/2.8",
       "mount": "Leica M",
@@ -1015,7 +1015,7 @@
     {
       "id": "lens-leica-90-tele-elmarit",
       "brand": "Leica",
-      "model": "Tele-Elmarit-M 90mm f/2.8 (瘦头 Thin)",
+      "model": "Tele-Elmarit-M 90mm f/2.8 (Thin / Compact)",
       "focalLength": "90mm",
       "maxAperture": "f/2.8",
       "mount": "Leica M",
@@ -1051,7 +1051,7 @@
     {
       "id": "lens-mamiya-7-43",
       "brand": "Mamiya",
-      "model": "Mamiya 7 N 43mm f/4.5 L (超广标杆)",
+      "model": "Mamiya 7 N 43mm f/4.5 L (Ultra Wide)",
       "focalLength": "43mm",
       "maxAperture": "f/4.5",
       "mount": "Mamiya 7",
@@ -1060,7 +1060,7 @@
     {
       "id": "lens-mamiya-rz-110",
       "brand": "Mamiya",
-      "model": "Sekor C 110mm f/2.8 W (Mamiya RZ67 标头)",
+      "model": "Sekor C 110mm f/2.8 W (RZ67 Standard)",
       "focalLength": "110mm",
       "maxAperture": "f/2.8",
       "mount": "Mamiya RZ67",
@@ -1069,7 +1069,7 @@
     {
       "id": "lens-nikon-50-14-preai",
       "brand": "Nikon",
-      "model": "Nikkor-S Auto 50mm f/1.4 (Pre-AI 银嘴/黑嘴)",
+      "model": "Nikkor-S Auto 50mm f/1.4 (Pre-AI Chrome / Black Nose)",
       "focalLength": "50mm",
       "maxAperture": "f/1.4",
       "mount": "Nikon F",
@@ -1096,7 +1096,7 @@
     {
       "id": "lens-nikon-28-28-ais",
       "brand": "Nikon",
-      "model": "AI-s Nikkor 28mm f/2.8 (CRC 近摄校正 0.2m)",
+      "model": "AI-s Nikkor 28mm f/2.8 (CRC 0.2m Close-Range Correction)",
       "focalLength": "28mm",
       "maxAperture": "f/2.8",
       "mount": "Nikon F",
@@ -1114,7 +1114,7 @@
     {
       "id": "lens-nikon-105-25-ais",
       "brand": "Nikon",
-      "model": "AI-s Nikkor 105mm f/2.5 (阿富汗少女头 Afghan Girl)",
+      "model": "AI-s Nikkor 105mm f/2.5 (Afghan Girl Portrait)",
       "focalLength": "105mm",
       "maxAperture": "f/2.5",
       "mount": "Nikon F",
@@ -1150,7 +1150,7 @@
     {
       "id": "lens-olympus-om-50-14",
       "brand": "Olympus",
-      "model": "OM Zuiko Auto-S 50mm f/1.4 (银嘴 / MC / >110万号高锐版)",
+      "model": "OM Zuiko Auto-S 50mm f/1.4 (Silver Nose / MC / >1.1M SN)",
       "focalLength": "50mm",
       "maxAperture": "f/1.4",
       "mount": "Olympus OM",
@@ -1168,7 +1168,7 @@
     {
       "id": "lens-pentax-67-105-early",
       "brand": "Pentax",
-      "model": "Super-Multi-Coated Takumar 6x7 105mm f/2.4 (前期版)",
+      "model": "Super-Multi-Coated Takumar 6x7 105mm f/2.4 (Early Version)",
       "focalLength": "105mm",
       "maxAperture": "f/2.4",
       "mount": "Pentax 67",
@@ -1177,7 +1177,7 @@
     {
       "id": "lens-pentax-67-105-late",
       "brand": "Pentax",
-      "model": "SMC Pentax 67 105mm f/2.4 (后期版)",
+      "model": "SMC Pentax 67 105mm f/2.4 (Late Version)",
       "focalLength": "105mm",
       "maxAperture": "f/2.4",
       "mount": "Pentax 67",
@@ -1249,7 +1249,7 @@
     {
       "id": "lens-voigtlander-35-nokton-15-type1",
       "brand": "Voigtländer",
-      "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type I (铝合金黑 188g)",
+      "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type I (Aluminum Black 188g)",
       "focalLength": "35mm",
       "maxAperture": "f/1.5",
       "mount": "Leica M (VM)",
@@ -1258,7 +1258,7 @@
     {
       "id": "lens-voigtlander-35-nokton-15-type2",
       "brand": "Voigtländer",
-      "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type II (黄铜黑漆/银 284g)",
+      "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type II (Brass Black/Silver 284g)",
       "focalLength": "35mm",
       "maxAperture": "f/1.5",
       "mount": "Leica M (VM)",
@@ -1312,7 +1312,7 @@
     {
       "id": "lens-voigtlander-35-ultron-type1",
       "brand": "Voigtländer",
-      "model": "Ultron Vintage Line 35mm f/2 Aspherical Type I (圆柱拨杆)",
+      "model": "Ultron Vintage Line 35mm f/2 Aspherical Type I (Focusing Lever)",
       "focalLength": "35mm",
       "maxAperture": "f/2",
       "mount": "Leica M (VM)",
@@ -1321,7 +1321,7 @@
     {
       "id": "lens-voigtlander-35-ultron-type2",
       "brand": "Voigtländer",
-      "model": "Ultron Vintage Line 35mm f/2 Aspherical Type II (月牙指柄)",
+      "model": "Ultron Vintage Line 35mm f/2 Aspherical Type II (Focusing Tab)",
       "focalLength": "35mm",
       "maxAperture": "f/2",
       "mount": "Leica M (VM)",
@@ -1339,7 +1339,7 @@
     {
       "id": "lens-voigtlander-35-skopar",
       "brand": "Voigtländer",
-      "model": "Color-Skopar 35mm f/2.5 P II VM (饼干头)",
+      "model": "Color-Skopar 35mm f/2.5 P II VM (Pancake)",
       "focalLength": "35mm",
       "maxAperture": "f/2.5",
       "mount": "Leica M (VM)",
@@ -1384,7 +1384,7 @@
     {
       "id": "lens-voigtlander-50-heliar",
       "brand": "Voigtländer",
-      "model": "Heliar Classic 50mm f/1.5 VM (古典像差散景)",
+      "model": "Heliar Classic 50mm f/1.5 VM (Classic Bokeh)",
       "focalLength": "50mm",
       "maxAperture": "f/1.5",
       "mount": "Leica M (VM)",
@@ -1402,7 +1402,7 @@
     {
       "id": "lens-voigtlander-40-heliar",
       "brand": "Voigtländer",
-      "model": "Heliar 40mm f/2.8 Aspherical VM (极轻薄复古)",
+      "model": "Heliar 40mm f/2.8 Aspherical VM (Compact Vintage)",
       "focalLength": "40mm",
       "maxAperture": "f/2.8",
       "mount": "Leica M (VM)",
@@ -1411,7 +1411,7 @@
     {
       "id": "lens-voigtlander-28-ultron-type1",
       "brand": "Voigtländer",
-      "model": "Ultron Vintage Line 28mm f/2 Aspherical Type I (圆柱杆)",
+      "model": "Ultron Vintage Line 28mm f/2 Aspherical Type I (Focusing Lever)",
       "focalLength": "28mm",
       "maxAperture": "f/2",
       "mount": "Leica M (VM)",
@@ -1420,7 +1420,7 @@
     {
       "id": "lens-voigtlander-28-ultron-type2",
       "brand": "Voigtländer",
-      "model": "Ultron Vintage Line 28mm f/2 Aspherical Type II (月牙指柄)",
+      "model": "Ultron Vintage Line 28mm f/2 Aspherical Type II (Focusing Tab)",
       "focalLength": "28mm",
       "maxAperture": "f/2",
       "mount": "Leica M (VM)",
@@ -1429,7 +1429,7 @@
     {
       "id": "lens-voigtlander-28-skopar-type1",
       "brand": "Voigtländer",
-      "model": "Color-Skopar 28mm f/2.8 Aspherical Type I (超薄旋转头)",
+      "model": "Color-Skopar 28mm f/2.8 Aspherical Type I (Slim Rotating)",
       "focalLength": "28mm",
       "maxAperture": "f/2.8",
       "mount": "Leica M (VM)",
@@ -1438,7 +1438,7 @@
     {
       "id": "lens-voigtlander-28-skopar-type2",
       "brand": "Voigtländer",
-      "model": "Color-Skopar 28mm f/2.8 Aspherical Type II (现代对焦指柄)",
+      "model": "Color-Skopar 28mm f/2.8 Aspherical Type II (Modern Focusing Tab)",
       "focalLength": "28mm",
       "maxAperture": "f/2.8",
       "mount": "Leica M (VM)",

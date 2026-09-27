@@ -2,7 +2,7 @@
   {
     "id": "lens-canon-fd-50-14",
     "brand": "Canon",
-    "model": "FD 50mm f/1.4 S.S.C. (银环版 Chrome Nose)",
+    "model": "FD 50mm f/1.4 S.S.C. (Chrome Nose)",
     "focalLength": "50mm",
     "maxAperture": "f/1.4",
     "mount": "Canon FD",
@@ -11,7 +11,7 @@
   {
     "id": "lens-canon-nfd-50-14",
     "brand": "Canon",
-    "model": "New FD 50mm f/1.4 (卡口钮锁版)",
+    "model": "New FD 50mm f/1.4 (nFD Bayonet Lock)",
     "focalLength": "50mm",
     "maxAperture": "f/1.4",
     "mount": "Canon FD",
@@ -20,7 +20,7 @@
   {
     "id": "lens-canon-fd-35-2",
     "brand": "Canon",
-    "model": "FD 35mm f/2 (凹玉 Concave 钍玻璃)",
+    "model": "FD 35mm f/2 (Concave Thorium Element)",
     "focalLength": "35mm",
     "maxAperture": "f/2",
     "mount": "Canon FD",

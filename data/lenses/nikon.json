@@ -2,7 +2,7 @@
   {
     "id": "lens-nikon-50-14-preai",
     "brand": "Nikon",
-    "model": "Nikkor-S Auto 50mm f/1.4 (Pre-AI 银嘴/黑嘴)",
+    "model": "Nikkor-S Auto 50mm f/1.4 (Pre-AI Chrome / Black Nose)",
     "focalLength": "50mm",
     "maxAperture": "f/1.4",
     "mount": "Nikon F",
@@ -29,7 +29,7 @@
   {
     "id": "lens-nikon-28-28-ais",
     "brand": "Nikon",
-    "model": "AI-s Nikkor 28mm f/2.8 (CRC 近摄校正 0.2m)",
+    "model": "AI-s Nikkor 28mm f/2.8 (CRC 0.2m Close-Range Correction)",
     "focalLength": "28mm",
     "maxAperture": "f/2.8",
     "mount": "Nikon F",
@@ -47,7 +47,7 @@
   {
     "id": "lens-nikon-105-25-ais",
     "brand": "Nikon",
-    "model": "AI-s Nikkor 105mm f/2.5 (阿富汗少女头 Afghan Girl)",
+    "model": "AI-s Nikkor 105mm f/2.5 (Afghan Girl Portrait)",
     "focalLength": "105mm",
     "maxAperture": "f/2.5",
     "mount": "Nikon F",
