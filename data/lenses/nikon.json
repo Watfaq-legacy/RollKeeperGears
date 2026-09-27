@@ -1,43 +1,66 @@
 [
   {
-    "id": "lens-nikon-50-14-ais",
+    "id": "lens-nikon-50-14-preai",
     "brand": "Nikon",
-    "model": "Nikkor 50mm f/1.4 AI-s",
+    "model": "Nikkor-S Auto 50mm f/1.4 (Pre-AI 银嘴/黑嘴)",
     "focalLength": "50mm",
     "maxAperture": "f/1.4",
-    "mount": "Nikon F"
+    "mount": "Nikon F",
+    "year": "1962-1974"
+  },
+  {
+    "id": "lens-nikon-50-14-ais",
+    "brand": "Nikon",
+    "model": "AI-s Nikkor 50mm f/1.4",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.4",
+    "mount": "Nikon F",
+    "year": "1981-2005"
   },
   {
     "id": "lens-nikon-35-14-ais",
     "brand": "Nikon",
-    "model": "Nikkor 35mm f/1.4 AI-s",
+    "model": "AI-s Nikkor 35mm f/1.4",
     "focalLength": "35mm",
     "maxAperture": "f/1.4",
-    "mount": "Nikon F"
+    "mount": "Nikon F",
+    "year": "1981-2005"
   },
   {
     "id": "lens-nikon-28-28-ais",
     "brand": "Nikon",
-    "model": "Nikkor 28mm f/2.8 AI-s",
+    "model": "AI-s Nikkor 28mm f/2.8 (CRC 近摄校正 0.2m)",
     "focalLength": "28mm",
     "maxAperture": "f/2.8",
-    "mount": "Nikon F"
+    "mount": "Nikon F",
+    "year": "1981-2005"
   },
   {
     "id": "lens-nikon-85-14-ais",
     "brand": "Nikon",
-    "model": "Nikkor 85mm f/1.4 AI-s",
+    "model": "AI-s Nikkor 85mm f/1.4",
     "focalLength": "85mm",
     "maxAperture": "f/1.4",
-    "mount": "Nikon F"
+    "mount": "Nikon F",
+    "year": "1981-2005"
   },
   {
     "id": "lens-nikon-105-25-ais",
     "brand": "Nikon",
-    "model": "Nikkor 105mm f/2.5 AI-s",
+    "model": "AI-s Nikkor 105mm f/2.5 (阿富汗少女头 Afghan Girl)",
     "focalLength": "105mm",
     "maxAperture": "f/2.5",
-    "mount": "Nikon F"
+    "mount": "Nikon F",
+    "year": "1981-2005"
+  },
+  {
+    "id": "lens-nikon-50-14-d",
+    "brand": "Nikon",
+    "model": "AF Nikkor 50mm f/1.4D",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.4",
+    "mount": "Nikon F",
+    "year": "1995-2008"
   },
   {
     "id": "lens-nikon-z-50-12",
@@ -45,7 +68,8 @@
     "model": "NIKKOR Z 50mm f/1.2 S",
     "focalLength": "50mm",
     "maxAperture": "f/1.2",
-    "mount": "Nikon Z"
+    "mount": "Nikon Z",
+    "year": "2020-"
   },
   {
     "id": "lens-nikon-z-35-18",
@@ -53,6 +77,7 @@
     "model": "NIKKOR Z 35mm f/1.8 S",
     "focalLength": "35mm",
     "maxAperture": "f/1.8",
-    "mount": "Nikon Z"
+    "mount": "Nikon Z",
+    "year": "2018-"
   }
 ]

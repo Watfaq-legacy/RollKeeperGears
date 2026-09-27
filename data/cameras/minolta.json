@@ -4,20 +4,23 @@
     "brand": "Minolta",
     "model": "TC-1",
     "format": "135",
-    "cameraType": "Point & Shoot"
+    "cameraType": "Point & Shoot",
+    "year": "1996-2005"
   },
   {
     "id": "cam-minolta-cle",
     "brand": "Minolta",
     "model": "CLE",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1980-1985"
   },
   {
     "id": "cam-minolta-xd11",
     "brand": "Minolta",
     "model": "XD-11",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1977-1984"
   }
 ]

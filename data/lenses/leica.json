@@ -1,58 +1,191 @@
 [
   {
-    "id": "lens-leica-35-summicron",
+    "id": "lens-leica-35-summicron-v1",
     "brand": "Leica",
-    "model": "Summicron-M 35mm f/2 ASPH",
+    "model": "Summicron-M 35mm f/2 (v1 八枚玉 8-Element)",
     "focalLength": "35mm",
     "maxAperture": "f/2",
-    "mount": "Leica M"
+    "mount": "Leica M",
+    "year": "1958-1969"
   },
   {
-    "id": "lens-leica-35-summilux",
+    "id": "lens-leica-35-summicron-v4",
     "brand": "Leica",
-    "model": "Summilux-M 35mm f/1.4 ASPH",
+    "model": "Summicron-M 35mm f/2 (v4 七枚玉 King of Bokeh)",
+    "focalLength": "35mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M",
+    "year": "1979-1996"
+  },
+  {
+    "id": "lens-leica-35-summicron-asph-i",
+    "brand": "Leica",
+    "model": "Summicron-M 35mm f/2 ASPH (I 代 11879/11882)",
+    "focalLength": "35mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M",
+    "year": "1996-2016"
+  },
+  {
+    "id": "lens-leica-35-summicron-asph-ii",
+    "brand": "Leica",
+    "model": "Summicron-M 35mm f/2 ASPH II (II 代 11673/11674 现行版)",
+    "focalLength": "35mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M",
+    "year": "2016-"
+  },
+  {
+    "id": "lens-leica-35-summilux-v1",
+    "brand": "Leica",
+    "model": "Summilux-M 35mm f/1.4 (v1 钢嘴 Steel Rim 11873)",
     "focalLength": "35mm",
     "maxAperture": "f/1.4",
-    "mount": "Leica M"
+    "mount": "Leica M",
+    "year": "1960-1966"
   },
   {
-    "id": "lens-leica-50-summicron",
+    "id": "lens-leica-35-summilux-fle",
     "brand": "Leica",
-    "model": "Summicron-M 50mm f/2",
+    "model": "Summilux-M 35mm f/1.4 ASPH FLE (11663)",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M",
+    "year": "2010-2022"
+  },
+  {
+    "id": "lens-leica-35-summilux-fle-ii",
+    "brand": "Leica",
+    "model": "Summilux-M 35mm f/1.4 ASPH FLE II (11301 近摄版)",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M",
+    "year": "2022-"
+  },
+  {
+    "id": "lens-leica-50-summicron-v1",
+    "brand": "Leica",
+    "model": "Summicron-M 50mm f/2 (v1 刚起 / 沉头 / 双量程 DR)",
     "focalLength": "50mm",
     "maxAperture": "f/2",
-    "mount": "Leica M"
+    "mount": "Leica M",
+    "year": "1953-1968"
   },
   {
-    "id": "lens-leica-50-summilux",
+    "id": "lens-leica-50-summicron-v4",
     "brand": "Leica",
-    "model": "Summilux-M 50mm f/1.4 ASPH",
+    "model": "Summicron-M 50mm f/2 (v4/v5 现行内置遮光罩 11826)",
+    "focalLength": "50mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M",
+    "year": "1979-"
+  },
+  {
+    "id": "lens-leica-50-summicron-apo",
+    "brand": "Leica",
+    "model": "APO-Summicron-M 50mm f/2 ASPH (11141)",
+    "focalLength": "50mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M",
+    "year": "2012-"
+  },
+  {
+    "id": "lens-leica-50-summilux-pre",
+    "brand": "Leica",
+    "model": "Summilux-M 50mm f/1.4 (v2/v3 E43/E46 Pre-ASPH)",
     "focalLength": "50mm",
     "maxAperture": "f/1.4",
-    "mount": "Leica M"
+    "mount": "Leica M",
+    "year": "1962-2004"
   },
   {
-    "id": "lens-leica-50-noctilux",
+    "id": "lens-leica-50-summilux-asph",
     "brand": "Leica",
-    "model": "Noctilux-M 50mm f/1.0",
+    "model": "Summilux-M 50mm f/1.4 ASPH (11891/11892)",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M",
+    "year": "2004-2023"
+  },
+  {
+    "id": "lens-leica-50-summilux-asph-ii",
+    "brand": "Leica",
+    "model": "Summilux-M 50mm f/1.4 ASPH II (11728/11729 近摄版)",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M",
+    "year": "2023-"
+  },
+  {
+    "id": "lens-leica-50-noctilux-10",
+    "brand": "Leica",
+    "model": "Noctilux-M 50mm f/1.0 (E58 / E60 经典夜神)",
     "focalLength": "50mm",
     "maxAperture": "f/1.0",
-    "mount": "Leica M"
+    "mount": "Leica M",
+    "year": "1976-2008"
   },
   {
-    "id": "lens-leica-28-elmarit",
+    "id": "lens-leica-50-noctilux-095",
     "brand": "Leica",
-    "model": "Elmarit-M 28mm f/2.8 ASPH",
+    "model": "Noctilux-M 50mm f/0.95 ASPH (11602)",
+    "focalLength": "50mm",
+    "maxAperture": "f/0.95",
+    "mount": "Leica M",
+    "year": "2008-"
+  },
+  {
+    "id": "lens-leica-50-noctilux-12",
+    "brand": "Leica",
+    "model": "Noctilux-M 50mm f/1.2 ASPH (11686 经典复刻版)",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.2",
+    "mount": "Leica M",
+    "year": "2021-"
+  },
+  {
+    "id": "lens-leica-28-elmarit-v1",
+    "brand": "Leica",
+    "model": "Elmarit-M 28mm f/2.8 (v1 九枚玉 9-Element)",
     "focalLength": "28mm",
     "maxAperture": "f/2.8",
-    "mount": "Leica M"
+    "mount": "Leica M",
+    "year": "1965-1972"
+  },
+  {
+    "id": "lens-leica-28-elmarit-asph",
+    "brand": "Leica",
+    "model": "Elmarit-M 28mm f/2.8 ASPH (11606/11677 极小巧)",
+    "focalLength": "28mm",
+    "maxAperture": "f/2.8",
+    "mount": "Leica M",
+    "year": "2006-"
+  },
+  {
+    "id": "lens-leica-28-summicron",
+    "brand": "Leica",
+    "model": "Summicron-M 28mm f/2 ASPH (11604/11672)",
+    "focalLength": "28mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M",
+    "year": "2000-"
   },
   {
     "id": "lens-leica-90-tele-elmarit",
     "brand": "Leica",
-    "model": "Tele-Elmarit-M 90mm f/2.8",
+    "model": "Tele-Elmarit-M 90mm f/2.8 (瘦头 Thin)",
     "focalLength": "90mm",
     "maxAperture": "f/2.8",
-    "mount": "Leica M"
+    "mount": "Leica M",
+    "year": "1973-1990"
+  },
+  {
+    "id": "lens-leica-90-summicron-apo",
+    "brand": "Leica",
+    "model": "APO-Summicron-M 90mm f/2 ASPH (11884)",
+    "focalLength": "90mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M",
+    "year": "1998-"
   }
 ]

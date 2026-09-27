@@ -4,41 +4,47 @@
     "brand": "Pentax",
     "model": "67",
     "format": "120 (6x7)",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1969-1989"
   },
   {
     "id": "cam-pentax-67ii",
     "brand": "Pentax",
     "model": "67 II",
     "format": "120 (6x7)",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1998-2009"
   },
   {
     "id": "cam-pentax-lx",
     "brand": "Pentax",
     "model": "LX",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1980-2001"
   },
   {
     "id": "cam-pentax-k1000",
     "brand": "Pentax",
     "model": "K1000",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1976-1997"
   },
   {
     "id": "cam-pentax-me-super",
     "brand": "Pentax",
     "model": "ME Super",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1979-1984"
   },
   {
     "id": "cam-pentax-17",
     "brand": "Pentax",
     "model": "17 Half-Frame",
     "format": "135 Half",
-    "cameraType": "Zone Focus"
+    "cameraType": "Zone Focus",
+    "year": "2024-"
   }
 ]

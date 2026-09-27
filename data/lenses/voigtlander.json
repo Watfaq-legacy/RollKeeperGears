@@ -1,43 +1,84 @@
 [
   {
-    "id": "lens-voigtlander-35-nokton-ii",
+    "id": "lens-voigtlander-35-nokton-15-type1",
     "brand": "Voigtländer",
-    "model": "Nokton Classic 35mm f/1.4 II VM",
+    "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type I (铝合金黑 188g)",
     "focalLength": "35mm",
-    "maxAperture": "f/1.4",
-    "mount": "Leica M (VM)"
+    "maxAperture": "f/1.5",
+    "mount": "Leica M (VM)",
+    "year": "2022"
   },
   {
-    "id": "lens-voigtlander-35-nokton-12",
+    "id": "lens-voigtlander-35-nokton-15-type2",
+    "brand": "Voigtländer",
+    "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type II (黄铜黑漆/银 284g)",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.5",
+    "mount": "Leica M (VM)",
+    "year": "2022"
+  },
+  {
+    "id": "lens-voigtlander-35-nokton-i",
+    "brand": "Voigtländer",
+    "model": "Nokton Classic 35mm f/1.4 I VM (S.C. / M.C.)",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M (VM)",
+    "year": "2008"
+  },
+  {
+    "id": "lens-voigtlander-35-nokton-ii",
+    "brand": "Voigtländer",
+    "model": "Nokton Classic 35mm f/1.4 II VM (S.C. / M.C.)",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.4",
+    "mount": "Leica M (VM)",
+    "year": "2019"
+  },
+  {
+    "id": "lens-voigtlander-35-nokton-12-i",
+    "brand": "Voigtländer",
+    "model": "Nokton 35mm f/1.2 Aspherical I VM",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.2",
+    "mount": "Leica M (VM)",
+    "year": "2003"
+  },
+  {
+    "id": "lens-voigtlander-35-nokton-12-ii",
+    "brand": "Voigtländer",
+    "model": "Nokton 35mm f/1.2 Aspherical II VM",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.2",
+    "mount": "Leica M (VM)",
+    "year": "2011"
+  },
+  {
+    "id": "lens-voigtlander-35-nokton-12-iii",
     "brand": "Voigtländer",
     "model": "Nokton 35mm f/1.2 III Aspherical VM",
     "focalLength": "35mm",
     "maxAperture": "f/1.2",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2020"
   },
   {
-    "id": "lens-voigtlander-35-nokton-15",
+    "id": "lens-voigtlander-35-ultron-type1",
     "brand": "Voigtländer",
-    "model": "Nokton Vintage Line 35mm f/1.5 Aspherical Type I/II VM",
-    "focalLength": "35mm",
-    "maxAperture": "f/1.5",
-    "mount": "Leica M (VM)"
-  },
-  {
-    "id": "lens-voigtlander-35-ultron",
-    "brand": "Voigtländer",
-    "model": "Ultron Vintage Line 35mm f/2 Aspherical Type II VM",
+    "model": "Ultron Vintage Line 35mm f/2 Aspherical Type I (圆柱拨杆)",
     "focalLength": "35mm",
     "maxAperture": "f/2",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2019"
   },
   {
-    "id": "lens-voigtlander-35-skopar",
+    "id": "lens-voigtlander-35-ultron-type2",
     "brand": "Voigtländer",
-    "model": "Color-Skopar 35mm f/2.5 P II VM",
+    "model": "Ultron Vintage Line 35mm f/2 Aspherical Type II (月牙指柄)",
     "focalLength": "35mm",
-    "maxAperture": "f/2.5",
-    "mount": "Leica M (VM)"
+    "maxAperture": "f/2",
+    "mount": "Leica M (VM)",
+    "year": "2021"
   },
   {
     "id": "lens-voigtlander-35-apo",
@@ -45,7 +86,17 @@
     "model": "APO-LANTHAR 35mm f/2 Aspherical VM",
     "focalLength": "35mm",
     "maxAperture": "f/2",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2021"
+  },
+  {
+    "id": "lens-voigtlander-35-skopar",
+    "brand": "Voigtländer",
+    "model": "Color-Skopar 35mm f/2.5 P II VM (饼干头)",
+    "focalLength": "35mm",
+    "maxAperture": "f/2.5",
+    "mount": "Leica M (VM)",
+    "year": "2004"
   },
   {
     "id": "lens-voigtlander-50-nokton-10",
@@ -53,7 +104,8 @@
     "model": "Nokton 50mm f/1.0 Aspherical VM",
     "focalLength": "50mm",
     "maxAperture": "f/1.0",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2022"
   },
   {
     "id": "lens-voigtlander-50-nokton-12",
@@ -61,7 +113,8 @@
     "model": "Nokton 50mm f/1.2 Aspherical VM",
     "focalLength": "50mm",
     "maxAperture": "f/1.2",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2018"
   },
   {
     "id": "lens-voigtlander-50-nokton-15",
@@ -69,7 +122,8 @@
     "model": "Nokton Vintage Line 50mm f/1.5 II Aspherical VM",
     "focalLength": "50mm",
     "maxAperture": "f/1.5",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2020"
   },
   {
     "id": "lens-voigtlander-50-apo",
@@ -77,15 +131,17 @@
     "model": "APO-LANTHAR 50mm f/2 Aspherical VM",
     "focalLength": "50mm",
     "maxAperture": "f/2",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2020"
   },
   {
     "id": "lens-voigtlander-50-heliar",
     "brand": "Voigtländer",
-    "model": "Heliar Classic 50mm f/1.5 VM",
+    "model": "Heliar Classic 50mm f/1.5 VM (古典像差散景)",
     "focalLength": "50mm",
     "maxAperture": "f/1.5",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2021"
   },
   {
     "id": "lens-voigtlander-40-nokton",
@@ -93,31 +149,53 @@
     "model": "Nokton Classic 40mm f/1.4 S.C. / M.C. VM",
     "focalLength": "40mm",
     "maxAperture": "f/1.4",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2004"
   },
   {
     "id": "lens-voigtlander-40-heliar",
     "brand": "Voigtländer",
-    "model": "Heliar 40mm f/2.8 Aspherical VM",
+    "model": "Heliar 40mm f/2.8 Aspherical VM (极轻薄复古)",
     "focalLength": "40mm",
     "maxAperture": "f/2.8",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2022"
   },
   {
-    "id": "lens-voigtlander-28-ultron",
+    "id": "lens-voigtlander-28-ultron-type1",
     "brand": "Voigtländer",
-    "model": "Ultron Vintage Line 28mm f/2 Type II VM",
+    "model": "Ultron Vintage Line 28mm f/2 Aspherical Type I (圆柱杆)",
     "focalLength": "28mm",
     "maxAperture": "f/2",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2021"
   },
   {
-    "id": "lens-voigtlander-28-skopar",
+    "id": "lens-voigtlander-28-ultron-type2",
     "brand": "Voigtländer",
-    "model": "Color-Skopar 28mm f/2.8 Aspherical Type II VM",
+    "model": "Ultron Vintage Line 28mm f/2 Aspherical Type II (月牙指柄)",
+    "focalLength": "28mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M (VM)",
+    "year": "2021"
+  },
+  {
+    "id": "lens-voigtlander-28-skopar-type1",
+    "brand": "Voigtländer",
+    "model": "Color-Skopar 28mm f/2.8 Aspherical Type I (超薄旋转头)",
     "focalLength": "28mm",
     "maxAperture": "f/2.8",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2023"
+  },
+  {
+    "id": "lens-voigtlander-28-skopar-type2",
+    "brand": "Voigtländer",
+    "model": "Color-Skopar 28mm f/2.8 Aspherical Type II (现代对焦指柄)",
+    "focalLength": "28mm",
+    "maxAperture": "f/2.8",
+    "mount": "Leica M (VM)",
+    "year": "2023"
   },
   {
     "id": "lens-voigtlander-21-nokton",
@@ -125,23 +203,26 @@
     "model": "Nokton 21mm f/1.4 Aspherical VM",
     "focalLength": "21mm",
     "maxAperture": "f/1.4",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2019"
   },
   {
     "id": "lens-voigtlander-21-skopar",
     "brand": "Voigtländer",
-    "model": "Color-Skopar 21mm f/3.5 Aspherical VM",
+    "model": "Color-Skopar 21mm f/3.5 Aspherical Vintage Line VM",
     "focalLength": "21mm",
     "maxAperture": "f/3.5",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2018"
   },
   {
-    "id": "lens-voigtlander-15-heliar",
+    "id": "lens-voigtlander-15-heliar-iii",
     "brand": "Voigtländer",
     "model": "Super Wide-Heliar 15mm f/4.5 Aspherical III VM",
     "focalLength": "15mm",
     "maxAperture": "f/4.5",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2015"
   },
   {
     "id": "lens-voigtlander-75-heliar",
@@ -149,7 +230,8 @@
     "model": "Heliar Classic 75mm f/1.5 Aspherical VM",
     "focalLength": "75mm",
     "maxAperture": "f/1.5",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2019"
   },
   {
     "id": "lens-voigtlander-90-apo",
@@ -157,6 +239,7 @@
     "model": "APO-SKOPAR 90mm f/2.8 VM",
     "focalLength": "90mm",
     "maxAperture": "f/2.8",
-    "mount": "Leica M (VM)"
+    "mount": "Leica M (VM)",
+    "year": "2021"
   }
 ]

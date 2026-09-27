@@ -4,20 +4,23 @@
     "brand": "Ricoh",
     "model": "GR1v",
     "format": "135",
-    "cameraType": "Point & Shoot"
+    "cameraType": "Point & Shoot",
+    "year": "2001-2004"
   },
   {
     "id": "cam-ricoh-gr3",
     "brand": "Ricoh",
     "model": "GR III",
     "format": "APS-C Digital",
-    "cameraType": "Compact Digital"
+    "cameraType": "Compact Digital",
+    "year": "2019-"
   },
   {
     "id": "cam-ricoh-gr3x",
     "brand": "Ricoh",
     "model": "GR IIIx",
     "format": "APS-C Digital",
-    "cameraType": "Compact Digital"
+    "cameraType": "Compact Digital",
+    "year": "2021-"
   }
 ]

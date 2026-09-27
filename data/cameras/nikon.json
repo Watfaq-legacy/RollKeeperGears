@@ -4,90 +4,103 @@
     "brand": "Nikon",
     "model": "F3 / F3HP",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1980-2000"
   },
   {
     "id": "cam-nikon-fm2",
     "brand": "Nikon",
     "model": "FM2n",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1982-2001"
   },
   {
     "id": "cam-nikon-fm3a",
     "brand": "Nikon",
     "model": "FM3A",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "2001-2006"
   },
   {
     "id": "cam-nikon-f",
     "brand": "Nikon",
     "model": "F",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1959-1973"
   },
   {
     "id": "cam-nikon-f2",
     "brand": "Nikon",
     "model": "F2",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1971-1980"
   },
   {
     "id": "cam-nikon-f4",
     "brand": "Nikon",
     "model": "F4",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1988-1996"
   },
   {
     "id": "cam-nikon-f5",
     "brand": "Nikon",
     "model": "F5",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1996-2004"
   },
   {
     "id": "cam-nikon-f6",
     "brand": "Nikon",
     "model": "F6",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "2004-2020"
   },
   {
     "id": "cam-nikon-35ti",
     "brand": "Nikon",
     "model": "35Ti",
     "format": "135",
-    "cameraType": "Point & Shoot"
+    "cameraType": "Point & Shoot",
+    "year": "1993-1999"
   },
   {
     "id": "cam-nikon-28ti",
     "brand": "Nikon",
     "model": "28Ti",
     "format": "135",
-    "cameraType": "Point & Shoot"
+    "cameraType": "Point & Shoot",
+    "year": "1994-1999"
   },
   {
     "id": "cam-nikon-z8",
     "brand": "Nikon",
     "model": "Z 8",
     "format": "Full Frame 35mm",
-    "cameraType": "Mirrorless Digital"
+    "cameraType": "Mirrorless Digital",
+    "year": "2023-"
   },
   {
     "id": "cam-nikon-zf",
     "brand": "Nikon",
     "model": "Z f",
     "format": "Full Frame 35mm",
-    "cameraType": "Mirrorless Digital"
+    "cameraType": "Mirrorless Digital",
+    "year": "2023-"
   },
   {
     "id": "cam-nikon-z6iii",
     "brand": "Nikon",
     "model": "Z 6III",
     "format": "Full Frame 35mm",
-    "cameraType": "Mirrorless Digital"
+    "cameraType": "Mirrorless Digital",
+    "year": "2024-"
   }
 ]

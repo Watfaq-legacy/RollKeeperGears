@@ -4,20 +4,23 @@
     "brand": "Rolleiflex",
     "model": "2.8F Planar",
     "format": "120 (6x6)",
-    "cameraType": "TLR"
+    "cameraType": "TLR",
+    "year": "1960-1981"
   },
   {
     "id": "cam-rolleiflex-35f",
     "brand": "Rolleiflex",
     "model": "3.5F Planar",
     "format": "120 (6x6)",
-    "cameraType": "TLR"
+    "cameraType": "TLR",
+    "year": "1958-1975"
   },
   {
     "id": "cam-rollei-35s",
     "brand": "Rollei",
     "model": "35 S",
     "format": "135",
-    "cameraType": "Scale Focus"
+    "cameraType": "Scale Focus",
+    "year": "1974-1980"
   }
 ]

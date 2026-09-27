@@ -4,55 +4,63 @@
     "brand": "Fujifilm",
     "model": "GW690 III",
     "format": "120 (6x9)",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1992-2003"
   },
   {
     "id": "cam-fuji-gf670",
     "brand": "Fujifilm",
     "model": "GF670 Folder",
     "format": "120 (6x6/6x7)",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "2008-2014"
   },
   {
     "id": "cam-fuji-ga645",
     "brand": "Fujifilm",
     "model": "GA645 Professional",
     "format": "120 (645)",
-    "cameraType": "Point & Shoot"
+    "cameraType": "Point & Shoot",
+    "year": "1995-1997"
   },
   {
     "id": "cam-fuji-klasse-w",
     "brand": "Fujifilm",
     "model": "Klasse W",
     "format": "135",
-    "cameraType": "Point & Shoot"
+    "cameraType": "Point & Shoot",
+    "year": "2006-2013"
   },
   {
     "id": "cam-fuji-tx1",
     "brand": "Fujifilm",
     "model": "TX-1",
     "format": "135 Panoramic",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1998-2002"
   },
   {
     "id": "cam-fuji-xt5",
     "brand": "Fujifilm",
     "model": "X-T5",
     "format": "APS-C Digital",
-    "cameraType": "Mirrorless Digital"
+    "cameraType": "Mirrorless Digital",
+    "year": "2022-"
   },
   {
     "id": "cam-fuji-x100vi",
     "brand": "Fujifilm",
     "model": "X100VI",
     "format": "APS-C Digital",
-    "cameraType": "Compact Digital"
+    "cameraType": "Compact Digital",
+    "year": "2024-"
   },
   {
     "id": "cam-fuji-gfx100ii",
     "brand": "Fujifilm",
     "model": "GFX 100 II",
     "format": "Medium Format Digital",
-    "cameraType": "Mirrorless Digital"
+    "cameraType": "Mirrorless Digital",
+    "year": "2023-"
   }
 ]

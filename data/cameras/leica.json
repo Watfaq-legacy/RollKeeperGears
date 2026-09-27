@@ -4,69 +4,79 @@
     "brand": "Leica",
     "model": "M6 Classic",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1984-1998"
   },
   {
     "id": "cam-leica-m6-ttl",
     "brand": "Leica",
     "model": "M6 TTL",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1998-2002"
   },
   {
     "id": "cam-leica-m3",
     "brand": "Leica",
     "model": "M3",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1954-1966"
   },
   {
     "id": "cam-leica-m2",
     "brand": "Leica",
     "model": "M2",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1957-1968"
   },
   {
     "id": "cam-leica-m4",
     "brand": "Leica",
     "model": "M4",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1967-1975"
   },
   {
     "id": "cam-leica-mp",
     "brand": "Leica",
     "model": "MP",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "2003-"
   },
   {
     "id": "cam-leica-m7",
     "brand": "Leica",
     "model": "M7",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "2002-2018"
   },
   {
     "id": "cam-leica-minilux",
     "brand": "Leica",
     "model": "Minilux",
     "format": "135",
-    "cameraType": "Point & Shoot"
+    "cameraType": "Point & Shoot",
+    "year": "1995-2006"
   },
   {
     "id": "cam-leica-q3",
     "brand": "Leica",
     "model": "Q3",
     "format": "Full Frame 35mm",
-    "cameraType": "Compact Digital"
+    "cameraType": "Compact Digital",
+    "year": "2023-"
   },
   {
     "id": "cam-leica-m11",
     "brand": "Leica",
     "model": "M11",
     "format": "Full Frame 35mm",
-    "cameraType": "Rangefinder Digital"
+    "cameraType": "Rangefinder Digital",
+    "year": "2022-"
   }
 ]

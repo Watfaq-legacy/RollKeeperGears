@@ -4,48 +4,55 @@
     "brand": "Canon",
     "model": "AE-1",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1976-1984"
   },
   {
     "id": "cam-canon-ae1-prog",
     "brand": "Canon",
     "model": "AE-1 Program",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1981-1987"
   },
   {
     "id": "cam-canon-new-f1",
     "brand": "Canon",
     "model": "New F-1",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1981-1992"
   },
   {
     "id": "cam-canon-eos1v",
     "brand": "Canon",
     "model": "EOS-1V",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "2000-2018"
   },
   {
     "id": "cam-canon-ql17",
     "brand": "Canon",
     "model": "Canonet QL17 G-III",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1972-1982"
   },
   {
     "id": "cam-canon-r5",
     "brand": "Canon",
     "model": "EOS R5",
     "format": "Full Frame 35mm",
-    "cameraType": "Mirrorless Digital"
+    "cameraType": "Mirrorless Digital",
+    "year": "2020-"
   },
   {
     "id": "cam-canon-r6m2",
     "brand": "Canon",
     "model": "EOS R6 Mark II",
     "format": "Full Frame 35mm",
-    "cameraType": "Mirrorless Digital"
+    "cameraType": "Mirrorless Digital",
+    "year": "2022-"
   }
 ]

@@ -4,27 +4,31 @@
     "brand": "Mamiya",
     "model": "7 II",
     "format": "120 (6x7)",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1999-2014"
   },
   {
     "id": "cam-mamiya-6",
     "brand": "Mamiya",
     "model": "6",
     "format": "120 (6x6)",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1989-1995"
   },
   {
     "id": "cam-mamiya-rb67",
     "brand": "Mamiya",
     "model": "RB67 Pro-SD",
     "format": "120 (6x7)",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1990-2010"
   },
   {
     "id": "cam-mamiya-rz67",
     "brand": "Mamiya",
     "model": "RZ67 Pro II",
     "format": "120 (6x7)",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1993-2014"
   }
 ]

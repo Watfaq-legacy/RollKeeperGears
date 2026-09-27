@@ -1,11 +1,21 @@
 [
   {
-    "id": "lens-pentax-67-105",
+    "id": "lens-pentax-67-105-early",
     "brand": "Pentax",
-    "model": "SMC Pentax 67 105mm f/2.4",
+    "model": "Super-Multi-Coated Takumar 6x7 105mm f/2.4 (前期版)",
     "focalLength": "105mm",
     "maxAperture": "f/2.4",
-    "mount": "Pentax 67"
+    "mount": "Pentax 67",
+    "year": "1969-1979"
+  },
+  {
+    "id": "lens-pentax-67-105-late",
+    "brand": "Pentax",
+    "model": "SMC Pentax 67 105mm f/2.4 (后期版)",
+    "focalLength": "105mm",
+    "maxAperture": "f/2.4",
+    "mount": "Pentax 67",
+    "year": "1989-2009"
   },
   {
     "id": "lens-pentax-67-90",
@@ -13,7 +23,8 @@
     "model": "SMC Pentax 67 90mm f/2.8",
     "focalLength": "90mm",
     "maxAperture": "f/2.8",
-    "mount": "Pentax 67"
+    "mount": "Pentax 67",
+    "year": "1980-2009"
   },
   {
     "id": "lens-pentax-67-55",
@@ -21,14 +32,16 @@
     "model": "SMC Pentax 67 55mm f/4",
     "focalLength": "55mm",
     "maxAperture": "f/4",
-    "mount": "Pentax 67"
+    "mount": "Pentax 67",
+    "year": "1989-2009"
   },
   {
-    "id": "lens-pentax-50-14",
+    "id": "lens-pentax-50-14-m",
     "brand": "Pentax",
     "model": "SMC Pentax-M 50mm f/1.4",
     "focalLength": "50mm",
     "maxAperture": "f/1.4",
-    "mount": "Pentax K"
+    "mount": "Pentax K",
+    "year": "1977-1984"
   }
 ]

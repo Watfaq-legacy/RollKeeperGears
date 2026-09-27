@@ -1,58 +1,119 @@
 [
   {
-    "id": "lens-zeiss-80-planar",
+    "id": "lens-zeiss-80-planar-c",
     "brand": "Carl Zeiss",
-    "model": "Planar T* 80mm f/2.8 CF",
+    "model": "Planar C 80mm f/2.8 (白头/黑头 Synchro-Compur)",
     "focalLength": "80mm",
     "maxAperture": "f/2.8",
-    "mount": "Hasselblad V"
+    "mount": "Hasselblad V",
+    "year": "1957-1982"
   },
   {
-    "id": "lens-zeiss-50-distagon",
+    "id": "lens-zeiss-80-planar-cf",
     "brand": "Carl Zeiss",
-    "model": "Distagon T* 50mm f/4 FLE",
+    "model": "Planar CF 80mm f/2.8 T*",
+    "focalLength": "80mm",
+    "maxAperture": "f/2.8",
+    "mount": "Hasselblad V",
+    "year": "1982-1998"
+  },
+  {
+    "id": "lens-zeiss-80-planar-cfe",
+    "brand": "Carl Zeiss",
+    "model": "Planar CFE 80mm f/2.8 T*",
+    "focalLength": "80mm",
+    "maxAperture": "f/2.8",
+    "mount": "Hasselblad V",
+    "year": "1998-2013"
+  },
+  {
+    "id": "lens-zeiss-50-distagon-cf",
+    "brand": "Carl Zeiss",
+    "model": "Distagon CF 50mm f/4 FLE T*",
     "focalLength": "50mm",
     "maxAperture": "f/4",
-    "mount": "Hasselblad V"
+    "mount": "Hasselblad V",
+    "year": "1989-1998"
   },
   {
-    "id": "lens-zeiss-150-sonnar",
+    "id": "lens-zeiss-150-sonnar-cf",
     "brand": "Carl Zeiss",
-    "model": "Sonnar T* 150mm f/4 CF",
+    "model": "Sonnar CF 150mm f/4 T*",
     "focalLength": "150mm",
     "maxAperture": "f/4",
-    "mount": "Hasselblad V"
+    "mount": "Hasselblad V",
+    "year": "1982-1998"
   },
   {
     "id": "lens-zeiss-45-planar-g",
     "brand": "Carl Zeiss",
-    "model": "Planar T* 45mm f/2",
+    "model": "Planar T* 45mm f/2 (Contax G 标杆锐度)",
     "focalLength": "45mm",
     "maxAperture": "f/2",
-    "mount": "Contax G"
+    "mount": "Contax G",
+    "year": "1994-2005"
   },
   {
     "id": "lens-zeiss-28-biogon-g",
     "brand": "Carl Zeiss",
-    "model": "Biogon T* 28mm f/2.8",
+    "model": "Biogon T* 28mm f/2.8 (Contax G)",
     "focalLength": "28mm",
     "maxAperture": "f/2.8",
-    "mount": "Contax G"
+    "mount": "Contax G",
+    "year": "1994-2005"
   },
   {
     "id": "lens-zeiss-90-sonnar-g",
     "brand": "Carl Zeiss",
-    "model": "Sonnar T* 90mm f/2.8",
+    "model": "Sonnar T* 90mm f/2.8 (Contax G)",
     "focalLength": "90mm",
     "maxAperture": "f/2.8",
-    "mount": "Contax G"
+    "mount": "Contax G",
+    "year": "1994-2005"
   },
   {
     "id": "lens-zeiss-50-planar-cy",
     "brand": "Carl Zeiss",
-    "model": "Planar T* 50mm f/1.4",
+    "model": "Planar T* 50mm f/1.4 (Contax C/Y AEJ / MMJ)",
     "focalLength": "50mm",
     "maxAperture": "f/1.4",
-    "mount": "Contax C/Y"
+    "mount": "Contax C/Y",
+    "year": "1975-2005"
+  },
+  {
+    "id": "lens-zeiss-35-distagon-cy",
+    "brand": "Carl Zeiss",
+    "model": "Distagon T* 35mm f/1.4 (Contax C/Y)",
+    "focalLength": "35mm",
+    "maxAperture": "f/1.4",
+    "mount": "Contax C/Y",
+    "year": "1975-2005"
+  },
+  {
+    "id": "lens-zeiss-35-biogon-zm",
+    "brand": "Carl Zeiss",
+    "model": "Biogon T* 35mm f/2 ZM",
+    "focalLength": "35mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M (ZM)",
+    "year": "2004-"
+  },
+  {
+    "id": "lens-zeiss-50-planar-zm",
+    "brand": "Carl Zeiss",
+    "model": "Planar T* 50mm f/2 ZM",
+    "focalLength": "50mm",
+    "maxAperture": "f/2",
+    "mount": "Leica M (ZM)",
+    "year": "2004-"
+  },
+  {
+    "id": "lens-zeiss-50-c-sonnar-zm",
+    "brand": "Carl Zeiss",
+    "model": "C Sonnar T* 50mm f/1.5 ZM (古典柔美虚化)",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.5",
+    "mount": "Leica M (ZM)",
+    "year": "2006-"
   }
 ]

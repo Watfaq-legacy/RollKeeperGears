@@ -5,7 +5,8 @@
     "model": "FE 24-70mm F2.8 GM II",
     "focalLength": "24-70mm",
     "maxAperture": "f/2.8",
-    "mount": "Sony E"
+    "mount": "Sony E",
+    "year": "2022-"
   },
   {
     "id": "lens-sony-50-12-gm",
@@ -13,7 +14,8 @@
     "model": "FE 50mm F1.2 GM",
     "focalLength": "50mm",
     "maxAperture": "f/1.2",
-    "mount": "Sony E"
+    "mount": "Sony E",
+    "year": "2021-"
   },
   {
     "id": "lens-sony-35-14-gm",
@@ -21,6 +23,7 @@
     "model": "FE 35mm F1.4 GM",
     "focalLength": "35mm",
     "maxAperture": "f/1.4",
-    "mount": "Sony E"
+    "mount": "Sony E",
+    "year": "2021-"
   }
 ]

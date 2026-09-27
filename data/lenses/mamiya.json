@@ -2,33 +2,37 @@
   {
     "id": "lens-mamiya-7-80",
     "brand": "Mamiya",
-    "model": "Mamiya 80mm f/4 L",
+    "model": "Mamiya 7 N 80mm f/4 L",
     "focalLength": "80mm",
     "maxAperture": "f/4",
-    "mount": "Mamiya 7"
+    "mount": "Mamiya 7",
+    "year": "1995-2014"
   },
   {
     "id": "lens-mamiya-7-65",
     "brand": "Mamiya",
-    "model": "Mamiya 65mm f/4 L",
+    "model": "Mamiya 7 N 65mm f/4 L",
     "focalLength": "65mm",
     "maxAperture": "f/4",
-    "mount": "Mamiya 7"
+    "mount": "Mamiya 7",
+    "year": "1995-2014"
   },
   {
     "id": "lens-mamiya-7-43",
     "brand": "Mamiya",
-    "model": "Mamiya 43mm f/4.5 L",
+    "model": "Mamiya 7 N 43mm f/4.5 L (超广标杆)",
     "focalLength": "43mm",
     "maxAperture": "f/4.5",
-    "mount": "Mamiya 7"
+    "mount": "Mamiya 7",
+    "year": "1995-2014"
   },
   {
     "id": "lens-mamiya-rz-110",
     "brand": "Mamiya",
-    "model": "Sekor C 110mm f/2.8",
+    "model": "Sekor C 110mm f/2.8 W (Mamiya RZ67 标头)",
     "focalLength": "110mm",
     "maxAperture": "f/2.8",
-    "mount": "Mamiya RZ67"
+    "mount": "Mamiya RZ67",
+    "year": "1982-2014"
   }
 ]

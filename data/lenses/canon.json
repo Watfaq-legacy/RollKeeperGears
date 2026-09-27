@@ -2,34 +2,56 @@
   {
     "id": "lens-canon-fd-50-14",
     "brand": "Canon",
-    "model": "FD 50mm f/1.4 S.S.C.",
+    "model": "FD 50mm f/1.4 S.S.C. (银环版 Chrome Nose)",
     "focalLength": "50mm",
     "maxAperture": "f/1.4",
-    "mount": "Canon FD"
+    "mount": "Canon FD",
+    "year": "1973-1979"
+  },
+  {
+    "id": "lens-canon-nfd-50-14",
+    "brand": "Canon",
+    "model": "New FD 50mm f/1.4 (卡口钮锁版)",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.4",
+    "mount": "Canon FD",
+    "year": "1979-1990"
   },
   {
     "id": "lens-canon-fd-35-2",
     "brand": "Canon",
-    "model": "FD 35mm f/2",
+    "model": "FD 35mm f/2 (凹玉 Concave 钍玻璃)",
     "focalLength": "35mm",
     "maxAperture": "f/2",
-    "mount": "Canon FD"
+    "mount": "Canon FD",
+    "year": "1971-1976"
   },
   {
     "id": "lens-canon-fd-24-28",
     "brand": "Canon",
-    "model": "FD 24mm f/2.8",
+    "model": "FD 24mm f/2.8 S.S.C.",
     "focalLength": "24mm",
     "maxAperture": "f/2.8",
-    "mount": "Canon FD"
+    "mount": "Canon FD",
+    "year": "1973-1979"
   },
   {
     "id": "lens-canon-fd-85-18",
     "brand": "Canon",
-    "model": "FD 85mm f/1.8",
+    "model": "FD 85mm f/1.8 S.S.C.",
     "focalLength": "85mm",
     "maxAperture": "f/1.8",
-    "mount": "Canon FD"
+    "mount": "Canon FD",
+    "year": "1974-1979"
+  },
+  {
+    "id": "lens-canon-ef-50-12",
+    "brand": "Canon",
+    "model": "EF 50mm f/1.2L USM",
+    "focalLength": "50mm",
+    "maxAperture": "f/1.2",
+    "mount": "Canon EF",
+    "year": "2006-2023"
   },
   {
     "id": "lens-canon-rf-50-12",
@@ -37,7 +59,8 @@
     "model": "RF 50mm f/1.2L USM",
     "focalLength": "50mm",
     "maxAperture": "f/1.2",
-    "mount": "Canon RF"
+    "mount": "Canon RF",
+    "year": "2018-"
   },
   {
     "id": "lens-canon-rf-2470-28",
@@ -45,6 +68,7 @@
     "model": "RF 24-70mm f/2.8L IS USM",
     "focalLength": "24-70mm",
     "maxAperture": "f/2.8",
-    "mount": "Canon RF"
+    "mount": "Canon RF",
+    "year": "2019-"
   }
 ]

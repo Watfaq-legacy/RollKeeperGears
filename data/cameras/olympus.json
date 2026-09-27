@@ -4,34 +4,39 @@
     "brand": "Olympus",
     "model": "OM-1",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1972-1979"
   },
   {
     "id": "cam-olympus-om2",
     "brand": "Olympus",
     "model": "OM-2",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1975-1979"
   },
   {
     "id": "cam-olympus-om4ti",
     "brand": "Olympus",
     "model": "OM-4Ti",
     "format": "135",
-    "cameraType": "SLR"
+    "cameraType": "SLR",
+    "year": "1986-2002"
   },
   {
     "id": "cam-olympus-mju2",
     "brand": "Olympus",
     "model": "Mju II / Stylus Epic",
     "format": "135",
-    "cameraType": "Point & Shoot"
+    "cameraType": "Point & Shoot",
+    "year": "1997-2003"
   },
   {
     "id": "cam-olympus-xa",
     "brand": "Olympus",
     "model": "XA",
     "format": "135",
-    "cameraType": "Rangefinder"
+    "cameraType": "Rangefinder",
+    "year": "1979-1985"
   }
 ]
