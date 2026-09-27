@@ -104,11 +104,11 @@ RollKeeper 客户端内置同步功能，默认从本仓库的最新发布地址
 
 - **RAW 源地址**：
   ```text
-  https://raw.githubusercontent.com/Watfaq-legacy/RollKeeperGears/main/dist/gears.json
+  https://raw.githubusercontent.com/Watfaq-legacy/RollKeeperGears/master/dist/gears.json
   ```
 - **MIN 压缩源**：
   ```text
-  https://raw.githubusercontent.com/Watfaq-legacy/RollKeeperGears/main/dist/gears.min.json
+  https://raw.githubusercontent.com/Watfaq-legacy/RollKeeperGears/master/dist/gears.min.json
   ```
 
 当仓库版本号高于客户端本地缓存时，桌面端会提示更新并自动完成拉取与热载入。
